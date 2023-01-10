@@ -6,7 +6,7 @@ def FizzBuzz(num)
   # 数値が3の倍数
   elsif num % 3 == 0
     resultStr = "Fizz"
-  # 数値が3の倍数
+  # 数値が5の倍数
   elsif num % 5 == 0
     resultStr = "Buzz"
   # 上記以外の数値
