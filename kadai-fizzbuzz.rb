@@ -11,7 +11,7 @@ def FizzBuzz(num)
     resultStr = "Buzz"
   # 上記以外の数値
   else
-    resultStr = num.to_s
+    return num
   end
   resultStr
 end
